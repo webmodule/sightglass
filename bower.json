@@ -1,8 +1,7 @@
 {
   "name": "webmodules-sightglass",
   "main": "index.js",
-  "version": "0.2.4",
-  "homepage": "https://github.com/mikeric/sightglass",
+  "homepage": "https://github.com/webmodule/sightglass",
   "authors": [
     "Michael Richards"
   ],

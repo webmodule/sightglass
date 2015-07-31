@@ -1,0 +1,6 @@
+{
+	"name": "webmodules/sightglass",
+	"webmodules/sightglass": {
+		"js": ["sightglass.js"]
+	}
+}
